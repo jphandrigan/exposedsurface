@@ -2,7 +2,7 @@
 
 The program uses data (capacity, tank specification, and exposed surface) from actual tanks. The data was collected from different tank manufacturers situated across Canada and the USA.
 
-The estimator isn't perfect, but it should give you ballpark estimates of exposed surface area. 
+The estimator isn't perfect, but it should give you a fairly accurate value for exposed surface area. 
 
 You'll need a couple of additional python libraries installed:
 - matplotlib
